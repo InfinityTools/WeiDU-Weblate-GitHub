@@ -1,14 +1,18 @@
+*.gitignore text eol=crlf
+*.gitattributes text eol=crlf
 *.2da text
 *.baf text
 *.bat text eol=crlf
 *.d text
 *.glsl text eof=lf
-*.html text
+*.htm text eol=crlf
+*.html text eol=crlf
+*.ini text eol=crlf
 *.sh text eol=lf
 *.tp2 text
 *.tph text
 *.tra text
-*.txt text
+*.txt text eol=crlf
 
 *.7z binary
 *.are binary
