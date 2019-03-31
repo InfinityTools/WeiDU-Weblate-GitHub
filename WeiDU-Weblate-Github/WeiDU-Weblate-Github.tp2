@@ -1,0 +1,37 @@
+ BACKUP "weidu_external\backup\WeiDU-Weblate-Github"
+SUPPORT "https://forum.bgforge.net/viewforum.php?f=9"
+VERSION "0.0.1"
+
+AUTO_EVAL_STRINGS
+
+ALWAYS
+    OUTER_SPRINT MOD_FOLDER "WeiDU-Weblate-Github"
+END
+
+AUTO_TRA "WeiDU-Weblate-Github\Languages\%s"
+
+LANGUAGE "English" ENGLISH
+		 "WeiDU-Weblate-Github\Languages\English\setup.tra"
+         "WeiDU-Weblate-Github\Languages\English\dialog.tra"
+         "WeiDU-Weblate-Github\Languages\English\dialog_ee.tra"
+
+
+LANGUAGE "Polski" POLISH
+		 "WeiDU-Weblate-Github\Languages\Polish\setup.tra"
+         "WeiDU-Weblate-Github\Languages\Polish\dialog.tra"
+         "WeiDU-Weblate-Github\Languages\Polish\dialog_ee.tra"
+
+BEGIN @1000 DESIGNATED 1000 LABEL "ID:WeiDUWeblateGithub"
+
+ACTION_IF GAME_IS "soa tob bgt" BEGIN
+    LOAD_TRA "%MOD_FOLDER%\Languages\English\dialog.tra" "WeiDU-Weblate-Github\Languages\%LANGUAGE%\dialog.tra"
+    PRINT @1001
+END
+
+ACTION_IF GAME_IS "bgee bg2ee eet" BEGIN
+    LOAD_TRA "%MOD_FOLDER%\Languages\English\dialog_ee.tra" "WeiDU-Weblate-Github\Languages\%LANGUAGE%\dialog_ee.tra"
+    PRINT @1001
+END
+
+
+
