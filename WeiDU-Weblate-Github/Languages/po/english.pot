@@ -33,3 +33,7 @@ msgid ""
 "Example of the integration between WeiDU mod, Weblate Translation service at"
 " https://tra.bgforge.net and Github"
 msgstr ""
+
+#: setup.tra:1001
+msgid "Random test 1"
+msgstr ""
