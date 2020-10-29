@@ -31,7 +31,7 @@ msgstr ""
 #: setup.tra:1000
 msgid ""
 "Example of the integration between WeiDU mod, Weblate Translation service at"
-" https://tra.bgforge.net and Github"
+" https://tra.bgforge.net and GitHub"
 msgstr ""
 
 #: setup.tra:1001
