@@ -1,37 +1,53 @@
+* text=auto
+
+**/.* export-ignore # use export-ignore to skip files when downloading
 *.gitignore text eol=crlf
 *.gitattributes text eol=crlf
-*.2da text
-*.baf text
-*.bat text eol=crlf
-*.d text
-*.glsl text eof=lf
-*.htm text eol=crlf
-*.html text eol=crlf
-*.ini text eol=crlf
-*.sh text eol=lf
-*.tp2 text
-*.tph text
-*.tra text
-*.txt text eol=crlf
 
+# Common
 *.7z binary
-*.are binary
-*.bam binary
+*.bat text eol=crlf
 *.bmp binary
-*.cre binary
+*.command text eol=lf
+*.csv text eol=crlf
 *.dll binary
 *.eff binary
 *.exe binary
-*.itm binary
+*.gif binary
+*.htm[l] text
+*.ico binary
+*.ini text eol=crlf
 *.jpg binary
-*.mbc binary
 *.png binary
+*.ps1 text eol=crlf
+*.sh text eol=lf
+*.txt text eol=crlf
+*.y[a]ml text eol=crlf
+
+# WeiDU/IE
+*.2da text
+*.are binary
+*.baf text
+*.bam binary
+*.bcs text eol=lf
+*.cre binary
+*.d text
+*.dlg binary
+*.ids text
+*.itm binary
+*.mos binary
+*.plt binary
 *.pro binary
 *.pvrz binary
 *.spl binary
 *.sto binary
-*.tbc binary
+*.tp2 text
+*.tpa text
+*.tph text
+*.tpp text
+*.tra text
 *.vef binary
 *.vvc binary
 *.wav binary
 *.wed binary
+*.wmp binary
