@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-1-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: bgforge_po v.1.0.0\n"
+
+#: dialog.tra:1001
+msgid "Example of normal string: Faerun"
+msgstr ""
+
+#: dialog.tra:1002
+msgid ""
+"Example of string which require 'Separate female translation' for some "
+"languages (Polish, Czech etc): In the years following his resurrection by "
+"<CHARNAME> ..."
+msgstr ""
+
+#: dialog_ee.tra:1001
+msgid "Example of EE-only UTF8 string: Faerûn"
+msgstr ""
+
+#: setup.tra:1000
+msgid ""
+"Example of the integration between WeiDU mod, Weblate Translation service at"
+" https://tra.bgforge.net and GitHub"
+msgstr ""
+
+#: setup.tra:1001
+msgid "Random test 1"
+msgstr ""
