@@ -1,2 +1,2 @@
-@1001 = ~Example of normal string: Faerun~
-@1002 = ~Example of string which require 'Separate female translation' for some languages (Polish, Czech etc): In the years following his resurrection by <CHARNAME> ...~
+@1001 = ~Пример нормальной строки: Фаерун~
+@1002 = ~Пример строки, которая требует отдельного перевода в женском роде в некоторых языках (польский, чешский итд): после его воскрешения <CHARNAME> ...~ ~Пример строки, которая требует отдельного перевода в женском роде в некоторых языках (польский, чешский итд): после ее воскрешения <CHARNAME> ...~
