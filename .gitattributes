@@ -52,3 +52,22 @@
 *.wav binary
 *.wed binary
 *.wmp binary
+
+WeiDU-Weblate-GitHub/Languages/french/**.tra     working-tree-encoding=cp1252
+WeiDU-Weblate-GitHub/Languages/german/**.tra     working-tree-encoding=cp1252
+WeiDU-Weblate-GitHub/Languages/hungarian/**.tra  working-tree-encoding=cp1250
+WeiDU-Weblate-GitHub/Languages/italian/**.tra    working-tree-encoding=cp1252
+WeiDU-Weblate-GitHub/Languages/korean/**.tra     working-tree-encoding=cp949
+WeiDU-Weblate-GitHub/Languages/polish/**.tra     working-tree-encoding=cp1250
+WeiDU-Weblate-GitHub/Languages/portuguese/**.tra working-tree-encoding=cp1252
+WeiDU-Weblate-GitHub/Languages/russian/**.tra    working-tree-encoding=cp1251
+WeiDU-Weblate-GitHub/Languages/spanish/**.tra    working-tree-encoding=cp1252
+WeiDU-Weblate-GitHub/Languages/schinese/**.tra   working-tree-encoding=cp936
+WeiDU-Weblate-GitHub/Languages/tchinese/**.tra   working-tree-encoding=cp950
+WeiDU-Weblate-GitHub/Languages/ukrainian/**.tra  working-tree-encoding=cp1251
+
+WeiDU-Weblate-GitHub/Languages/**/ee.tra         working-tree-encoding=utf8
+WeiDU-Weblate-GitHub/Languages/**/*_ee.tra       working-tree-encoding=utf8
+
+WeiDU-Weblate-GitHub/Languages/russian/**/setup.tra       working-tree-encoding=cp866
+WeiDU-Weblate-GitHub/Languages/ukrainian/**/install.tra   working-tree-encoding=cp866
