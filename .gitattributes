@@ -53,6 +53,7 @@
 *.wed binary
 *.wmp binary
 
+WeiDU-Weblate-GitHub/Languages/czech/**.tra      working-tree-encoding=cp1250
 WeiDU-Weblate-GitHub/Languages/french/**.tra     working-tree-encoding=cp1252
 WeiDU-Weblate-GitHub/Languages/german/**.tra     working-tree-encoding=cp1252
 WeiDU-Weblate-GitHub/Languages/hungarian/**.tra  working-tree-encoding=cp1250
