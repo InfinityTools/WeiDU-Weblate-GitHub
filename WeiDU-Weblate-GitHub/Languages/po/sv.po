@@ -4,17 +4,19 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-25-13:42+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2022-09-07 11:30+0000\n"
+"Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: BGforge/msg2po v.1.1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: dialog.tra:1001
 msgid "Example of normal string: Faerun"
-msgstr ""
+msgstr "Exempel på ett normalt textstycke: Faerun"
 
 #: dialog.tra:1002
 msgid ""
@@ -22,17 +24,22 @@ msgid ""
 "languages (Polish, Czech etc): In the years following his resurrection by "
 "<CHARNAME> ..."
 msgstr ""
+"Exempel på ett textstycke som behöver 'Separat kvinnlig översättning' för "
+"vissa språk (Polska, Tjeckiska osv.): Under åren sedan hans återuppväckande "
+"av <CHARNAME> …"
 
 #: dialog_ee.tra:1001
 msgid "Example of EE-only UTF8 string: Faerûn"
-msgstr ""
+msgstr "Exempel på endast-EE UTF8 textstycke: Faerûn"
 
 #: setup.tra:1000
 msgid ""
 "Example of the integration between WeiDU mod, Weblate Translation service at"
 " https://hive.bgforge.net and GitHub"
 msgstr ""
+"Exempel på integrationen mellan WeiDU moddet, Weblate Translation service på "
+"https://hive.bgforge.net och GitHub"
 
 #: setup.tra:1001
 msgid "Random test 1"
-msgstr ""
+msgstr "Slumpmässigt test 1"
