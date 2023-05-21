@@ -16,11 +16,11 @@ msgstr ""
 
 #: dialog-items.tra:1001
 msgid "Item 1"
-msgstr ""
+msgstr "Пункт 1"
 
 #: dialog-items.tra:1002
 msgid "Item 1 Description"
-msgstr ""
+msgstr "Пункт 1 Описание"
 
 #: dialog.tra:1001
 msgid "Example of normal string: Faerun"
