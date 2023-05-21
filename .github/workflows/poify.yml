@@ -1,4 +1,4 @@
-name: Poify/Unpoify
+name: Poify/Unpoify/dir2msgstr
 on:
   push:
     paths:
@@ -16,3 +16,6 @@ jobs:
           poify: "true"
           unpoify: "true"
           push: "true"
+          single_commit: false
+          dir2msgstr: "true"
+          dir2msgstr_commit: "true"
