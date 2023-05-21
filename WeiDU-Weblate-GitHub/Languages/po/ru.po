@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-25-13:42+0000\n"
+"POT-Creation-Date: 2023-05-21-12:16+0000\n"
 "PO-Revision-Date: 2023-05-21 11:51+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: none\n"
@@ -31,6 +31,10 @@ msgstr ""
 #: dialog_ee.tra:1001
 msgid "Example of EE-only UTF8 string: Faerûn"
 msgstr "Пример UTF8 строки для движка ЕЕ: Фаэрун"
+
+#: dialog_new.tra:1001
+msgid "New string 2"
+msgstr ""
 
 #: setup.tra:1000
 msgid ""
