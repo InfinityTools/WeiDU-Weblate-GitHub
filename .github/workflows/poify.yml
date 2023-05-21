@@ -13,9 +13,9 @@ jobs:
       - name: Poify/Unpoify
         uses: BGforgeNet/msg2po@master
         with:
-          poify: "true"
-          unpoify: "true"
-          push: "true"
+          poify: true
+          unpoify: true
+          push: true
           single_commit: false
-          dir2msgstr: "true"
-          dir2msgstr_commit: "true"
+          dir2msgstr: true
+          dir2msgstr_commit: true
