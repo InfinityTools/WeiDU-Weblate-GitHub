@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-21-12:25+0000\n"
-"PO-Revision-Date: 2022-09-07 11:30+0000\n"
-"Last-Translator: tygyh <jonis9898@hotmail.com>\n"
+"PO-Revision-Date: 2023-05-21 13:51+0000\n"
+"Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 #: dialog-items.tra:1001
 msgid "Item 1"
-msgstr ""
+msgstr "Punkt 1"
 
 #: dialog-items.tra:1002
 msgid "Item 1 Description"
-msgstr ""
+msgstr "Punkt 1 Beskrivning"
 
 #: dialog.tra:1001
 msgid "Example of normal string: Faerun"
