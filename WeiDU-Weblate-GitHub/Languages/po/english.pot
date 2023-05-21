@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-21-12:16+0000\n"
+"POT-Creation-Date: 2023-05-21-12:25+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -11,6 +11,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: BGforge/msg2po v.1.1.12\n"
+
+#: dialog-items.tra:1001
+msgid "Item 1"
+msgstr ""
+
+#: dialog-items.tra:1002
+msgid "Item 1 Description"
+msgstr ""
 
 #: dialog.tra:1001
 msgid "Example of normal string: Faerun"
@@ -25,10 +33,6 @@ msgstr ""
 
 #: dialog_ee.tra:1001
 msgid "Example of EE-only UTF8 string: Faerûn"
-msgstr ""
-
-#: dialog_new.tra:1001
-msgid "New string 2"
 msgstr ""
 
 #: setup.tra:1000
