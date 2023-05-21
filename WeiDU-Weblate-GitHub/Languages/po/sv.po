@@ -37,8 +37,8 @@ msgid ""
 "Example of the integration between WeiDU mod, Weblate Translation service at"
 " https://hive.bgforge.net and GitHub"
 msgstr ""
-"Exempel på integrationen mellan WeiDU moddet, Weblate Translation service på "
-"https://hive.bgforge.net och GitHub"
+"Exempel på integrationen mellan WeiDU moddet, Weblate Translation service på"
+" https://hive.bgforge.net och GitHub"
 
 #: setup.tra:1001
 msgid "Random test 1"
