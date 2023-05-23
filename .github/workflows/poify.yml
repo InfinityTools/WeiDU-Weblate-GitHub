@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - "WeiDU-Weblate-GitHub/Languages/**"
+  workflow_dispatch:
 
 jobs:
   build:
