@@ -1,2 +1,2 @@
-@1001 = ~Przykład zwykłego tekstu: Faerun~
+@1001 = ~Przykład zwykłego tekstu: Faerun~ ~Przykład zwykłego tekstu w wariancie kobiecym: Faerunia~
 @1002 = ~Przykład tekstu, który wymaga użycia funkcjonalności 'Separate female translation' dla niektórych języków (Polski, Czeski itp), ta linia zostanie automatycznie zaimportowana: Mimo iż minęły lata odkąd <CHARNAME> go wskrzesił ...~ ~Przykład tekstu, który wymaga użycia funkcjonalności 'Separate female translation' dla niektórych języków (Polski, Czeski itp), ta linia zostanie automatycznie zaimportowana: Mimo iż minęły lata odkąd <CHARNAME> go wskrzesiła ...~
