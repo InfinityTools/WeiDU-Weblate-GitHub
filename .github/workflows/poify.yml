@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Poify/Unpoify
+      - name: Poify/Unpoify/dir2msgstr
         uses: BGforgeNet/msg2po@master
         with:
           poify: true
@@ -18,4 +18,3 @@ jobs:
           push: true
           single_commit: false
           dir2msgstr: true
-          dir2msgstr_commit: true
