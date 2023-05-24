@@ -18,6 +18,7 @@ LANGUAGE "English" ENGLISH
 
 LANGUAGE "Polski" POLISH
 		 "WeiDU-Weblate-GitHub\Languages\Polish\setup.tra"
+         "WeiDU-Weblate-GitHub\Languages\Polish\prompts.tra"
          "WeiDU-Weblate-GitHub\Languages\Polish\dialog.tra"
          "WeiDU-Weblate-GitHub\Languages\Polish\dialog_ee.tra"
 
@@ -32,6 +33,3 @@ ACTION_IF GAME_IS "bgee bg2ee eet" BEGIN
     LOAD_TRA "%MOD_FOLDER%\Languages\English\dialog_ee.tra" "WeiDU-Weblate-GitHub\Languages\%LANGUAGE%\dialog_ee.tra"
     PRINT @1001
 END
-
-
-
