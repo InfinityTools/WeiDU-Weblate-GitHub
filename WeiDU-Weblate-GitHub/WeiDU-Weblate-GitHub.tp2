@@ -11,16 +11,33 @@ END
 AUTO_TRA "WeiDU-Weblate-GitHub\Languages\%s"
 
 LANGUAGE "English" ENGLISH
-		 "WeiDU-Weblate-GitHub\Languages\English\setup.tra"
-         "WeiDU-Weblate-GitHub\Languages\English\dialog.tra"
-         "WeiDU-Weblate-GitHub\Languages\English\dialog_ee.tra"
-
+         "WeiDU-Weblate-GitHub\Languages\english\setup.tra"
+         "WeiDU-Weblate-GitHub\Languages\english\dialog.tra"
+         "WeiDU-Weblate-GitHub\Languages\english\dialog_ee.tra"
 
 LANGUAGE "Polski" POLISH
-		 "WeiDU-Weblate-GitHub\Languages\Polish\setup.tra"
-         "WeiDU-Weblate-GitHub\Languages\Polish\prompts.tra"
-         "WeiDU-Weblate-GitHub\Languages\Polish\dialog.tra"
-         "WeiDU-Weblate-GitHub\Languages\Polish\dialog_ee.tra"
+         "WeiDU-Weblate-GitHub\Languages\polish\setup.tra"
+         "WeiDU-Weblate-GitHub\Languages\polish\prompts.tra"
+         "WeiDU-Weblate-GitHub\Languages\polish\dialog.tra"
+         "WeiDU-Weblate-GitHub\Languages\polish\dialog_ee.tra"
+
+LANGUAGE ~Portuguese~ PORTUGUESE
+         "WeiDU-Weblate-GitHub\Languages\portuguese\setup.tra"
+         "WeiDU-Weblate-GitHub\Languages\portuguese\prompts.tra"
+         "WeiDU-Weblate-GitHub\Languages\portuguese\dialog.tra"
+         "WeiDU-Weblate-GitHub\Languages\portuguese\dialog_ee.tra"
+
+LANGUAGE ~Russian~ RUSSIAN
+         "WeiDU-Weblate-GitHub\Languages\russian\setup.tra"
+         "WeiDU-Weblate-GitHub\Languages\russian\prompts.tra"
+         "WeiDU-Weblate-GitHub\Languages\russian\dialog.tra"
+         "WeiDU-Weblate-GitHub\Languages\russian\dialog_ee.tra"
+
+LANGUAGE ~Swedish~ SWEDISH
+         "WeiDU-Weblate-GitHub\Languages\swedish\setup.tra"
+         "WeiDU-Weblate-GitHub\Languages\swedish\prompts.tra"
+         "WeiDU-Weblate-GitHub\Languages\swedish\dialog.tra"
+         "WeiDU-Weblate-GitHub\Languages\swedish\dialog_ee.tra"
 
 BEGIN @1000 DESIGNATED 1000 LABEL "WeiDU-Weblate-GitHub"
 
