@@ -16,7 +16,7 @@ jobs:
         with:
           poify: true
           unpoify: true
+          unpoify_utf8: true
           push: true
-          utf8: true
           single_commit: false
           dir2msgstr: true
