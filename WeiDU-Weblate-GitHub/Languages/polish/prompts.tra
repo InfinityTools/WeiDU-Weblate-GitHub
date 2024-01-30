@@ -1,26 +1,26 @@
 // WeiDU prompts
 @-1000 = ~Mod %TP2_FILE_NAME% posiada~
-@-1001 = ~opcjonalnych komponentow.
+@-1001 = ~opcjonalnych komponentów.
 ~
-@-1002 = ~Co zrobic z komponentami, ktore NIE ZOSTALY jeszcze zainstalowane?
-[I] zainstaluj wszystkie, [S] pomin wszystkie, [A] zapytaj o kazdy z osobna
+@-1002 = ~Co zrobić z komponentami, które NIE ZOSTAŁY jeszcze zainstalowane?
+[I] zainstaluj wszystkie, [S] pomiń wszystkie, [A] zapytaj o każdy z osobna
 ~
-@-1003 = ~Co zrobic z komponentami, ktore ZOSTALY juz zainstalowane?
-[R] ponowna instalacja, [U] odinstaluj, [S] pomin, [A] zapytaj o kazdy z osobna
+@-1003 = ~Co zrobić z komponentami, które ZOSTAŁY juz zainstalowane?
+[R] reinstalacja, [U] odinstaluj, [S] pomiń, [A] zapytaj o każdy z osobna
 ~
 
-@-1004 = ~PROSZE, wyslij plik~
+@-1004 = ~PROSZĘ, wyslij plik~
 @-1005 = ~do~
 
 @-1006 = ~Zainstalowac komponent [~
 @-1007 = ~]?
-[R] ponowna instalacja, [N] pozostaw bez zmian, [U] odinstaluj, [Q] zakoncz
+[R] reinstalacja, [N] pozostaw bez zmian, [U] odinstaluj, [Q] zakoncz
 ~
 @-1008 = ~]?
 [I] tak, [N] nie, [Q] zakoncz
 ~
 
-@-1009 = ~Wprowadz fragment nazwy modulu: ~
+@-1009 = ~Wprowadź fragment nazwy modułu: ~
 
 @-1010 = ~Re-instalacja [~
 @-1011 = ~] komponentu~
@@ -28,25 +28,25 @@
 
 @-1013 = ~Usuwanie zainstalowanego komponentu [~
 @-1014 = ~] ...~
-@-1015 = ~POMYSLNIE USUNIETO~
+@-1015 = ~POMYŚLNIE USUNIĘTO~
 
 @-1016 = ~Instalacja~
 @-1017 = ~BLAD podczas instalacji [~
 @-1018 = ~], powrot do poprzedniego stanu~
-@-1019 = ~INSTALACJA ZAKONCZONA POMYSLNIE ~
-@-1020 = ~Pominieto~
+@-1019 = ~INSTALACJA ZAKOŃCZONA POMYŚLNIE ~
+@-1020 = ~pominieto~
 @-1021 = ~Usuwanie [~
 @-1022 = ~] (komponent #~
 @-1023 = ~)~
-@-1024 = ~POMYSLNIE USUNIETO [~
+@-1024 = ~POMYŚLNIE USUNIĘTO [~
 
 @-1025 = ~]?
-[R] ponowna instalacja, [N] pozostaw bez zmian, [U] odinstaluj, [Q] zakoncz, lub wybierz:~
+[R] reinstalacja, [N] pozostaw bez zmian, [U] odinstaluj, [Q] zakoncz, lub wybierz:~
 @-1026 = ~]?
-[N] nie, [Q] zakoncz, lub wybierz:~
+[N] nie, [Q] zakończ, lub wybierz:~
 
 @-1027 = ~ (zainstalowano)~
-@-1028 = ~Czy wyswietlic komponenty z grupy [~
+@-1028 = ~Czy wyświetlić komponenty z grupy [~
 @-1029 = ~]?
 [Y] tak, [N] nie
 ~
@@ -54,40 +54,40 @@
 @-1030 = ~]?
 Wybierz jedno:~
 @-1031 = ~]?
-[R] ponowna instalacja, [N] pozostaw bez zmian, [Q] zakoncz, lub wybierz:~
+[R] reinstalacja, [N] pozostaw bez zmian, [Q] zakoncz, lub wybierz:~
 @-1032 = ~NIE ZAINSTALOWANO Z POWODU BLEDOW~
 @-1033 = ~INSTALACJA ZAKONCZONA POMIMO BLEDOW~
-@-1034 = ~Czy wyswietlic plik ReadMe? [Y] tak, [N] nie~
+@-1034 = ~Czy wyświetlić plik ReadMe? [Y] tak, [N] nie~
 @-1035 = ~Uzywany jezyk~
 
-@-1036 = ~Pominieto GRUPE [~
-@-1037 = ~] gdyz nie spelnia wymagan.~
+@-1036 = ~pomińieto GRUPE [~
+@-1037 = ~] gdyż nie spenia wymagań.~
 
-@-1038 = ~[A] zapytaj o kazdy z osobna, [S] pomin, lub wybierz ustawienia:~
-@-1039 = ~[A] zapytaj o kazdy z osobna, [R] ponowna instalacja, [U] odinstaluj, [S] pomin, lub wybierz ustawienia:~
+@-1038 = ~[A] zapytaj o każdy z osobna, [S] pomiń, lub wybierz ustawienia:~
+@-1039 = ~[A] zapytaj o każdy z osobna, [R] reinstalacja, [U] odinstaluj, [S] pomiń, lub wybierz ustawienia:~
 
 @-1040 = ~
-Prosze wybrac podstawowy jezyk, ktory uzywasz w grze.
-Ewentualna pozniejsza zmiana jezyka gry wiazac sie bedzie z koniecznoscia edycji pliku weidu.conf i ponownej instalacji modow.
+PROSZĘ wybrać podstawowy jezyk, ktory uzywasz w grze.
+Ewentualna poźniejsza zmiana języka gry wiązać się będzie z koniecznościa edycji pliku weidu.conf i ponownej instalacji modow.
 ~
 @-1041 = ~czeski~
 @-1042 = ~niemiecki~
 @-1043 = ~angielski~
-@-1044 = ~hiszpanski~
+@-1044 = ~hiszpański~
 @-1045 = ~fransuski~
-@-1046 = ~wloski~
+@-1046 = ~włoski~
 @-1047 = ~polski~
 @-1048 = ~portugalski~
 @-1049 = ~turecki~
-@-1050 = ~japonski~
-@-1051 = ~koreanski~
-@-1052 = ~chinski uproszczony~
+@-1050 = ~japoński~
+@-1051 = ~koreański~
+@-1052 = ~chiński uproszczony~
 
 @-1060 = ~
-Instalator WeiDU nie potrafi rozpoznac jakiego jezyka uzyto podczas instalacji tego modu.
+Instalator WeiDU nie potrafi rozpoznać jakiego jezyka uzyto podczas instalacji tego modu.
 
-Prosze wybrac odpowiedni jezyk. Wybor nie zostanie zapisany w pliku weidu.conf.
+PROSZĘ wybrać odpowiedni jezyk. Wybór nie zostanie zapisany w pliku weidu.conf.
 ~
 @-1061 = ~
-Uzywam~
+Używam~
 @-1062 = ~ oraz ~
