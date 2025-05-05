@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-21-12:25+0000\n"
+"POT-Creation-Date: 2025-05-05-09:58+0000\n"
 "PO-Revision-Date: 2024-01-20 23:07+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hive.bgforge.net/projects/infinity-engine/weidu-example/pt_BR/>\n"
@@ -37,8 +37,10 @@ msgstr ""
 "<CHARNAME> ..."
 
 #: dialog_ee.tra:1001
-msgid "Example of EE-only UTF8 string: Faerûn"
-msgstr "Exemplo de string UTF8 só-pra-EE: Faerûn"
+msgid ""
+"Example of EE-only string that contains unicode character, encoding must be "
+"UTF8: Faerûn"
+msgstr ""
 
 #: setup.tra:1000
 msgid ""
@@ -49,5 +51,11 @@ msgstr ""
 "em https://hive.bgforge.net e o GitHub"
 
 #: setup.tra:1001
-msgid "Random test 1"
-msgstr "Teste aleatório 1"
+msgid "Example text."
+msgstr ""
+
+#~ msgid "Example of EE-only UTF8 string: Faerûn"
+#~ msgstr "Exemplo de string UTF8 só-pra-EE: Faerûn"
+
+#~ msgid "Random test 1"
+#~ msgstr "Teste aleatório 1"

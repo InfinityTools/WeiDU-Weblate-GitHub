@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-21-12:25+0000\n"
+"POT-Creation-Date: 2025-05-05-09:58+0000\n"
 "PO-Revision-Date: 2023-05-21 11:51+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: none\n"
@@ -37,8 +37,10 @@ msgstr ""
 "..."
 
 #: dialog_ee.tra:1001
-msgid "Example of EE-only UTF8 string: Faerûn"
-msgstr "Пример UTF8 строки для движка ЕЕ: Фаэрун"
+msgid ""
+"Example of EE-only string that contains unicode character, encoding must be "
+"UTF8: Faerûn"
+msgstr ""
 
 #: setup.tra:1000
 msgid ""
@@ -49,8 +51,8 @@ msgstr ""
 "https://hive.bgforge.net и GitHub"
 
 #: setup.tra:1001
-msgid "Random test 1"
-msgstr "Случайное испытание 1"
+msgid "Example text."
+msgstr ""
 
 msgctxt "female"
 msgid ""
@@ -61,3 +63,9 @@ msgstr ""
 "Пример строки, которая требует отдельного перевода в женском роде в "
 "некоторых языках (польский, чешский итд): после ее воскрешения <CHARNAME> "
 "..."
+
+#~ msgid "Example of EE-only UTF8 string: Faerûn"
+#~ msgstr "Пример UTF8 строки для движка ЕЕ: Фаэрун"
+
+#~ msgid "Random test 1"
+#~ msgstr "Случайное испытание 1"
