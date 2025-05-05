@@ -3,8 +3,8 @@ translation:
   encoding: utf-8
   tra_dir: WeiDU-Weblate-GitHub/Languages
   skip_files:
-    - polish/prompts.tra
-    - portuguese/prompts.tra
-    - russian/prompts.tra
-    - swedish/prompts.tra
+    - WeiDU-Weblate-GitHub/Languagespolish/prompts.tra
+    - WeiDU-Weblate-GitHub/portuguese/prompts.tra
+    - WeiDU-Weblate-GitHub/russian/prompts.tra
+    - WeiDU-Weblate-GitHub/swedish/prompts.tra
 
