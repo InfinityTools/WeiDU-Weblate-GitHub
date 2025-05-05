@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-05-09:58+0000\n"
+"POT-Creation-Date: 2025-05-05-10:05+0000\n"
 "PO-Revision-Date: 2025-05-05 09:29+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: Polish <https://hive.bgforge.net/projects/infinity-engine/weidu-example/pl/>\n"
@@ -39,8 +39,8 @@ msgstr ""
 
 #: dialog_ee.tra:1001
 msgid ""
-"Example of EE-only string that contains unicode character, encoding must be "
-"UTF8: Faerûn"
+"Example of EE-only string that contains unicode character, file encoding "
+"must be UTF8: Faerûn"
 msgstr ""
 
 #: setup.tra:1000
