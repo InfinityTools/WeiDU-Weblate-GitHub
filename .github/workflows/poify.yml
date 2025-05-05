@@ -1,7 +1,15 @@
-name: Poify/Unpoify/dir2msgstr
+name: Poify/Unpoify/Dir2msgstr
+
 on:
   push:
     paths:
+      - .bgforge.yml
+      - .github/workflows/poify.yml
+      - "WeiDU-Weblate-GitHub/Languages/**"
+  pull_request:
+    paths:
+      - .bgforge.yml
+      - .github/workflows/poify.yml
       - "WeiDU-Weblate-GitHub/Languages/**"
   workflow_dispatch:
 
@@ -10,12 +18,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Poify/Unpoify/dir2msgstr
+        uses: actions/checkout@v4
+
+      - name: Poify/Unpoify run
+        if: github.ref == 'refs/heads/master' && github.event_name == 'push'
         uses: BGforgeNet/msg2po@dev
         with:
           poify: true
           unpoify: true
-          push: true
-          single_commit: false
           dir2msgstr: true
+          single_commit: true
+
+      - name: Poify/Unpoify test
+        if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
+        uses: BGforgeNet/msg2po@dev
+        with:
+          poify: true
+          unpoify: true
+          dir2msgstr: true
+          single_commit: true
+          push: false
